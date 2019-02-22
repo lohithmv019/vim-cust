@@ -1,4 +1,6 @@
 vim-cust
 ========
 
-vim customization 
+vim customization
+
+paste it - se paste
